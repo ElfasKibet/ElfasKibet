@@ -1,6 +1,5 @@
 # Hi there, I’m Elfas Kibet 👋
 
-## 👨‍💻 About Me
 I’m a tech enthusiast and a student at Moringa School, Passionate about learning and building cool things with code. I love diving into web development and exploring new technologies.
 
 ## 💡 Tech Stack
